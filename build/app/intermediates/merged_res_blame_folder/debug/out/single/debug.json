@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/mipmap-hdpi_logofav.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/mipmap-hdpi/logofav.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/drawable-mdpi_ic_stat_add_alert.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/drawable-mdpi/ic_stat_add_alert.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/mipmap-mdpi_logofav.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/mipmap-mdpi/logofav.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/drawable-v21_launch_background.xml.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/drawable_launch_background.xml.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/drawable-hdpi_ic_stat_add_alert.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/drawable-hdpi/ic_stat_add_alert.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/mipmap-xhdpi_logofav.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/mipmap-xhdpi/logofav.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/drawable-xxhdpi_ic_stat_add_alert.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/drawable-xxhdpi/ic_stat_add_alert.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/mipmap-xxhdpi_logofav.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/mipmap-xxhdpi/logofav.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/drawable-xhdpi_ic_stat_add_alert.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/drawable-xhdpi/ic_stat_add_alert.png"
+    },
+    {
+        "merged": "com.example.sebco_camioniste.app-merged_res-26:/drawable_ic_launcher.png.flat",
+        "source": "com.example.sebco_camioniste.app-main-20:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/mipmap-xxxhdpi_logofav.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/mipmap-xxxhdpi/logofav.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/drawable_ic_stat_add_alert.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/drawable/ic_stat_add_alert.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/drawable-xxxhdpi_ic_stat_add_alert.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/drawable-xxxhdpi/ic_stat_add_alert.png"
+    },
+    {
+        "merged": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-merged_res-26:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/sylvain/.gradle/daemon/7.5/com.example.sebco_camioniste.app-main-20:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

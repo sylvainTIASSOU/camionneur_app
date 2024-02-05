@@ -1,0 +1,4 @@
+#Wed Nov 01 09:27:34 GMT 2023
+base.0=/home/sylvain/SEBCO/sebco_camioniste/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
